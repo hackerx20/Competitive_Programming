@@ -11,6 +11,7 @@ int main() {
     } else {
         cout << "The number is odd." << endl;
     }
+    cout<<"welcome u r in hell"<<endl;
     cout<<"Go to Hell"<<endl;
     return 0;
 }
